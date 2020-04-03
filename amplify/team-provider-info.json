@@ -1,0 +1,22 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-hack-the-crisis-dev-224032-authRole",
+            "UnauthRoleArn": "arn:aws:iam::871371597197:role/amplify-hack-the-crisis-dev-224032-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::871371597197:role/amplify-hack-the-crisis-dev-224032-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-hack-the-crisis-dev-224032-deployment",
+            "UnauthRoleName": "amplify-hack-the-crisis-dev-224032-unauthRole",
+            "StackName": "amplify-hack-the-crisis-dev-224032",
+            "StackId": "arn:aws:cloudformation:eu-west-1:871371597197:stack/amplify-hack-the-crisis-dev-224032/5e3530d0-75eb-11ea-a9dc-06fa7988ce00",
+            "AmplifyAppId": "d103vqvxp5tpkc"
+        },
+        "categories": {
+            "auth": {
+                "hackthecrisisa195855f": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
+        }
+    }
+}
